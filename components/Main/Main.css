@@ -1,0 +1,10 @@
+main {
+    overflow-y: auto;
+    background-color: var(--background);
+  }
+  
+  .change-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
